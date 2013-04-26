@@ -1,7 +1,7 @@
 {
   "name": "slidebox",
-  "version": "0.2.1",
-  "main": "slidebox.js",
+  "version": "0.2.2",
+  "main": "./slidebox.js",
   "dependencies": {
     "zepto": "1.0"
   }
