@@ -1,0 +1,14 @@
+{
+  "name": "slidebox",
+  "version": "0.2.3",
+  "description": "Simple Zepto plugin which turns your checkboxes into iPhone like slideboxes.",
+  "main": "slidebox.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/25th-floor/slidebox.git"
+  },
+  "author": "https://github.com/mkuklis",
+  dependency: {
+    "zepto": "^1.0.0"
+  }
+}
