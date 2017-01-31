@@ -8,7 +8,7 @@
     "url": "git+https://github.com/25th-floor/slidebox.git"
   },
   "author": "https://github.com/mkuklis",
-  dependency: {
+  "dependencies": {
     "zepto": "^1.0.0"
   }
 }
